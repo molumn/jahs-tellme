@@ -1,0 +1,17 @@
+.FIXED {
+
+    text-decoration: none;
+
+    position: fixed;
+    right: 10px;
+    bottom: 10px    ;
+
+    font-size: x-large;
+    font-weight: bold;
+
+    color: #000000;
+    background: linear-gradient(rgba(0, 0, 0, 0), rgb(256, 256, 256, 10%));
+
+    border: 10px solid inherit;
+
+}

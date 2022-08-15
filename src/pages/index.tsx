@@ -3,6 +3,7 @@ import React from "react";
 import routes from "./routes";
 import {Link} from "react-router-dom";
 
+import './index.css';
 
 type RootProps = {
 
@@ -31,6 +32,48 @@ const root = (props: RootProps) => {
             </Link>
 
             {/* ------------------------------------------- */}
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+
+            <a href={'https://github.com/molumn/jahs-tellme'} target={"_blank"} className={"FIXED"}>
+                Github
+            </a>
         </>
     )
 }
