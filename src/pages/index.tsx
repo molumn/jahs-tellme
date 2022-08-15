@@ -71,9 +71,11 @@ const root = (props: RootProps) => {
             <br />
             <br />
 
-            <a href={'https://github.com/molumn/jahs-tellme'} target={"_blank"} className={"FIXED"}>
+            <b onClick={() =>
+                window.open("https://github.com/molumn/jahs-tellme")
+            } className={"FIXED"}>
                 Github
-            </a>
+            </b>
         </>
     )
 }
