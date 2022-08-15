@@ -1,10 +1,10 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import {HashRouter, Routes} from "react-router-dom";
+import {HashRouter, Route, Routes} from "react-router-dom";
 
 import './index.css';
 
-import root_routes from "./vector";
+import root_routes, {root_pages} from "./vector";
 
 
 
@@ -14,6 +14,7 @@ root.render(
     <React.StrictMode>
         <HashRouter>
             <Routes>
+                <Route index element={root_pages[0].second} />
                 {root_routes()}
             </Routes>
         </HashRouter>

@@ -23,6 +23,13 @@ const root = (props: RootProps) => {
                 <h2>오늘의 식단!</h2>
             </Link>
 
+            <Link style={{
+                color: "#AAAAAA",
+                width: "auto"
+            }} to={"/routes/diet/tomorrow"}>
+                <h2>내일의 식단!</h2>
+            </Link>
+
             {/* ------------------------------------------- */}
         </>
     )
