@@ -1,0 +1,36 @@
+.DIET {
+    white-space: pre-line;
+    background: #3c3f41;
+}
+
+.DIET_HEAD {
+    border-left: 20px solid #313335;
+    color: #AAAAAA;
+    background: #313335;
+}
+
+.DIET_CONTENT {
+    background: inherit;
+    color: #AAAAAA;
+
+    position: relative;
+    left: 10px;
+
+    width: 90%;
+    height: auto;
+
+}
+
+.DIET_CONTENT b {
+    background: inherit;
+    color: #999999;
+
+    position: relative;
+    left: 10px;
+
+    overflow: scroll;
+
+    width: 90%;
+    height: auto;
+
+}
