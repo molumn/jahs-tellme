@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/jahs-tellme/static/css/main.e3e0496a.css",
-    "main.js": "/jahs-tellme/static/js/main.8e02312d.js",
+    "main.js": "/jahs-tellme/static/js/main.a983cf1b.js",
     "index.html": "/jahs-tellme/index.html",
     "main.e3e0496a.css.map": "/jahs-tellme/static/css/main.e3e0496a.css.map",
-    "main.8e02312d.js.map": "/jahs-tellme/static/js/main.8e02312d.js.map"
+    "main.a983cf1b.js.map": "/jahs-tellme/static/js/main.a983cf1b.js.map"
   },
   "entrypoints": [
     "static/css/main.e3e0496a.css",
-    "static/js/main.8e02312d.js"
+    "static/js/main.a983cf1b.js"
   ]
 }
